@@ -1,16 +1,24 @@
-# app-calendario
+# Aplicacion Calendario Basico Vue-Vuetify-Firebase
 
-## Project setup
+
+
+## Parametros de Configuracion de Firebase:
+```
+.env
+```
+
+
+## Instalar Proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar para desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para producción
 ```
 npm run build
 ```
